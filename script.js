@@ -7,7 +7,7 @@ window.addEventListener("DOMContentLoaded", () => {
   // 1. Define YouTube API callback
   window.onYouTubeIframeAPIReady = function () {
     player = new YT.Player("player", {
-      videoId: "KkkYex4uTpQ", // You can change this to any YouTube video ID
+      videoId: "YXnjy5YlDwk", // You can change this to any YouTube video ID
       playerVars: {
         controls: 0,
         modestbranding: 1,
